@@ -1,2 +1,20 @@
-# sistema-de-gerenciamento-de-tarefas-
-Projeto em Java para gerenciar tarefas com categorias e colaboradores.  Funcionalidades Criar, listar, alterar status e deletar tarefas Busca por título de tarefa Organização por categorias e responsáveis Como rodar Compile os arquivos Java Execute a classe Main Requisitos Java 11 ou superior IDE recomendada: IntelliJ IDEA, Eclipse
+# **Gerenciador de Tarefas em Java**  
+
+Um projeto simples para organizar tarefas por **categorias** e **responsáveis**.  
+
+### **O que faz?**  
+✅ **Criar, editar, listar e apagar tarefas**  
+✅ **Marcar como concluída ou pendente**  
+✅ **Buscar tarefas pelo nome**  
+✅ **Filtrar por categoria ou pessoa responsável**  
+
+### **Como usar?**  
+1. Tenha o **Java 11+** instalado.  
+2. Baixe os arquivos e execute:  
+   ```bash  
+   javac *.java  
+   java Main  
+   ```  
+Pronto! Siga as instruções no programa.  
+
+**IDE recomendada:** IntelliJ IDEA ou Eclipse (opcional).
